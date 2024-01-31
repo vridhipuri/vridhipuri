@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vridhi Puri</h1>
-<h3 align="center">I am an aspiring software developer from India</h3>
+
 
 - 🌱 I’m currently learning **Data Science.**
 
